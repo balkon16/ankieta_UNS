@@ -1,0 +1,9 @@
+*.Rproj*
+_Rhistory
+.Rhistory
+.RData
+.Ruserdata
+*~
+*.rds
+*.pdf
+@*
